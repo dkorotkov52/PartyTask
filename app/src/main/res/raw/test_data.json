@@ -1,0 +1,18 @@
+{
+  "name": "Именины",
+  "bannerURL": "https://s3-alpha-sig.figma.com/img/599e/c8b8/170a251979a7cba87bc05a5e50b63c65?Expires=1603065600&Signature=GVFi4d9sf7zSQKv4KzK1h8hoY4Kv0yx4pnyxSHz30u3wzfxXaQIxv8uXsQ5GDPq5dGAD52hkwSHVE8AwFzzcmirk8qP8yvPhSKKUPiwb421DU72taOC3HPUYdPTWRl6EYDQXj8aTc2ztIRQlbFe77s5pADas6CIqKzYSYvpuML30Omd1-h2Ny9VPyd0urdKvsE7Yzsd6CDKZ2so6Td66bFVJxESzW6ebuhYLZlDNG99oONQO-JpKf-3Lj6Hfp95AHARgWCqi3W2miPn4bfg~kdaEJlZK2njhYbpo3dRRvtGCFHYv07YrUVo2cAIGQzHg~0u7LEEpzM4GBknFfKpCLg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+  "inviter": {
+    "name": "Кристина",
+    "avatarURL": "https://s3-alpha-sig.figma.com/img/a16d/4ffc/b6adbd4638d5d32b85f3a1fd0b2b5635?Expires=1603065600&Signature=JH74F7pHOJcGN32qqogop-Xl1yF3TV6Di2fX49tcm9Bvv-GE7TokZnub265blf1bEX3QSuJz81tVIgkzfLi1zRUAJ4YUIoy2HeBP-CrZo1mR9deGBxroSGZ8EZ2b35CT1fr~ULTiP~763NY8R9WpCR6Mumv8hZdb77lPhA3OiLekPstvZ9NBFJGGfMjr2v~BMMFfR7cKvFbz35r7kPvNVTS-mrG5N6ajfepGLrURjjoJck4zwivTuNJrtlx1Udyo4hKSJaTjgFsKbmghSsaH5XAP8WZNs2HCkXvwmjvqfAQi6hzK8MGl5vP9EZPYXeZ0CEb3rbMnlczEsew436rYXw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+  },
+  "guests": [
+    {
+      "name": "Иннеса",
+      "avatarURL": "https://s3-alpha-sig.figma.com/img/4307/aa08/ff9bf64d44030b9944cddaf3002dcf12?Expires=1603065600&Signature=Rm5cyZlVw8iddY4pU1CTWc2wFEStqBwgdzxbFKeqVx~Nl3RZJM4lkIkCnv-u1nFt72~5dFLf~RjaG1dE~rZCXa2-xDNmFEd-yvz-gCV3c0af2AOVmu7ieWzEYXp04sAtgS5rsyZ~xCKItER~zJriVnGnV~k44StE4GmQvJOuexAnLX3AxmE40i6JRqB6LUL3tEHnAx4an5MALMm7kT20GkB1aKNt0SNlmJVRFAyUtjTs4vbkg4gSn~EdfFnZIKW0ZUDm5ANCVHai9NOLHuju22vpiF94KhJ8jeJUF2Yc-2Q5I1ZCjXdIPD1v-WDlPsKmpOg2k7Oacg6ZweUcrGN9gg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+    },
+    {
+      "name": "Васисуалий",
+      "avatarURL": "https://s3-alpha-sig.figma.com/img/b3e4/1e5a/314ee13a198d2cc3242db77ce82af5f6?Expires=1603065600&Signature=e1DDIKouxjRpSuBw4QFZtdqykOrWIIPCuhUdivSGZQ81jHE-jZa6SiS9gZUGBwRlW4YImNQZenMfNpJpcmAJIYuMQcGHMDi5T2KXopj4EES4obVSu5XI5ARmTMRqAhHaZ4MPqmu--anxCwKu4OmwfoWHFJj6p4V1mMKCd5ZcvwW4Ge~ZxSpgkjqEK9j22sRc~TQlVpSY~HoAB~SIanibVveJOkA6yIiJ2pdWc2r8KSHEEKSL5qsFcKCb2autq~TqJsZT8Bldo0nenGukh5oBnmz-0kXVtI9W6vxpVj8DJpWOG7I1XDuVsg3tFktv42FSgJrLpLN4hleC8WIYd5j5Sg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+    }
+  ]
+}

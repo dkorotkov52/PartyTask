@@ -1,0 +1,22 @@
+{
+  "name": "New Year",
+  "bannerURL": "http://risovach.ru/upload/2013/12/generator/s-novym-godom_38910341_orig_.jpeg",
+  "inviter": {
+    "name": "Santa Claus",
+    "avatarURL": "https://fb.ru/media/i/8/2/3/5/5/i/82355.jpg"
+  },
+  "guests": [
+    {
+      "name": "Anna",
+      "avatarURL": "https://im0-tub-ru.yandex.net/i?id=f07744f5b28c64a24e8fe23c82eb7a54&n=13"
+    },
+    {
+      "name": "Olga",
+      "avatarURL": "https://im0-tub-ru.yandex.net/i?id=f07744f5b28c64a24e8fe23c82eb7a54&n=13"
+    },
+    {
+      "name": "Irina",
+      "avatarURL": "https://im0-tub-ru.yandex.net/i?id=f07744f5b28c64a24e8fe23c82eb7a54&n=13"
+    }
+  ]
+}

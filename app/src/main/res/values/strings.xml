@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Вечеринка</string>
+    <string name="guest_list_title">С Вами придут</string>
+    <string name="inviting">Пригласил(а): </string>
+</resources>
